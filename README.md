@@ -4,10 +4,9 @@ This module is to send concert ticket information and the FB group links to Line
 
 config.py setting are as follows:
 
-## line token
-## find more details and get token from https://notify-bot.line.me/en/
+Line token: (find more details and get the token from https://notify-bot.line.me/en/)
 line_api = "..."
 
-## FB log in
+FB log in information:
 my_email = "..."
 my_password = "...
